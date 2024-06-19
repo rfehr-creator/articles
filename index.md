@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Torch WSL Ubuntu
 layout: home
 ---
 
