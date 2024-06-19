@@ -1,3 +1,8 @@
+---
+title: PyTorch WSL Ubuntu
+layout: default
+---
+
 # How to install PyTorch on WSL Ubuntu with Cuda
 Prerequisites
 1. Nvidia driver installed 
