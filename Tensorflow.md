@@ -1,3 +1,8 @@
+---
+title: Tensorflow WSL Debian
+layout: default
+---
+
 # How to install Tensorflow in WSL Debian with Cuda
 ## Prerequisites
 1. Nvidia driver installed 
