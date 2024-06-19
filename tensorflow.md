@@ -1,6 +1,6 @@
 ---
 title: Tensorflow
-layout: home
+layout: default
 ---
 
 
