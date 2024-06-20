@@ -1,6 +1,7 @@
 ---
-title: Tensorflow WSL Debian
+title: Tensorflow (Debian)
 layout: default
+parent: WSL
 ---
 
 # How to install Tensorflow in WSL Debian with Cuda

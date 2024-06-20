@@ -1,6 +1,7 @@
 ---
-title: PyTorch WSL Ubuntu
+title: PyTorch (Ubuntu)
 layout: default
+parent: WSL
 ---
 
 # How to install PyTorch on WSL Ubuntu with Cuda
